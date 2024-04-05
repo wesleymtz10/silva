@@ -1,0 +1,10 @@
+*{
+    margin: 0 ;
+    padding: 0 ;
+    text-decoration: none;
+    background-color: hsla(0, 0%, 12%, 0.607);
+}
+
+header {
+    width: 100%;
+}
